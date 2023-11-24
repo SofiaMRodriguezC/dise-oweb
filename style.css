@@ -1,0 +1,32 @@
+html {
+    padding: 2%;
+    background-color: rgb(196, 203, 243);
+}
+
+p {
+    padding: 1%;
+    margin: 1%;
+    background-color: rgb(247, 203, 203);
+}
+
+img{
+    padding: 1%;
+}
+table {
+    background-color: rgb(198, 223, 151);
+}
+@media (min-width: 768px){
+    html {
+        padding: 2%;
+        background-color: rgb(243, 196, 204);
+    }
+    
+    p {
+        padding: 1%;
+        margin: 1%;
+        background-color: rgb(203, 204, 247);
+    }
+    table {
+        background-color: rgb(223, 189, 151);
+}
+}
